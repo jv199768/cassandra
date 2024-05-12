@@ -1,5 +1,3 @@
-# cassandra
-
 # terraform-oci-arch-cassandra
 
 Apache Cassandra is an open-source NoSQL database. It scales linearly, and data is replicated automatically to multiple nodes. Run your Apache Cassandra clusters in Oracle Cloud Infrastructure, and take advantage of enterprise-grade reliability, security, and operational flexibility.
